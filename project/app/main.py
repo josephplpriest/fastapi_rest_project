@@ -1,4 +1,4 @@
-""" ~/app/app.py"""
+""" ~/app/main.py"""
 
 from fastapi import FastAPI, Depends
 
